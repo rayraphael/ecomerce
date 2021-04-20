@@ -1,0 +1,1 @@
+M.AutoInit();//Initiliazie all materialize behaviours
